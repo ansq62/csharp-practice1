@@ -7,6 +7,8 @@ namespace csharp_practice1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("This is a change for a test commit.");
         }
     }
 }
