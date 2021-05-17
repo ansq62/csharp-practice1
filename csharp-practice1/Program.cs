@@ -11,6 +11,8 @@ namespace csharp_practice1
             Console.WriteLine("This is a change for a test commit.");
 
             Console.WriteLine("Now changing this message from Github!");
+
+            Console.WriteLine("Gonna do another commit");
         }
     }
 }
