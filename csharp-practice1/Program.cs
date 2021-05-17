@@ -9,6 +9,8 @@ namespace csharp_practice1
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("This is a change for a test commit.");
+
+            Console.WriteLine("Gonna branch a change now.  This should not affect the main branch.");
         }
     }
 }
